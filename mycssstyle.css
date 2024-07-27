@@ -1,0 +1,62 @@
+legend{
+    text-align:  center;
+}
+fieldset{
+       background-color:#FEF3E2 ;
+       width: 500px;
+       align-items: center;
+       border-radius: 10px;
+      
+       
+}
+input{
+    height: 30px;
+  /*   width: 180px; */;
+    margin: auto;
+    padding: 2PX;
+    border-radius: 10px;
+    border: none;
+
+}
+.form{
+
+    margin: auto!important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 25px;
+    border-radius: 3px;
+}
+label{
+    font-size:18px ;
+    margin-bottom: 50px;
+    padding:8px ;
+    
+}
+.submit-btn{
+    text-align: center;
+    margin: auto;
+    background-color: #17153B;
+    display: flex;
+    justify-content: center;
+    padding: 8px;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    width: 50px;
+    width: 90px;
+    height: 40px;
+    align-items: center;
+}
+
+
+.gender-style{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.checkbox-style{
+     display: flex;
+    align-items: center;
+    justify-content: left;
+}
